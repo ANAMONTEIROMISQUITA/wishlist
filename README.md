@@ -16,7 +16,13 @@ Desenvolvi esse projeto como forma de praticar **HTML**, **CSS** e também para 
 
 - HTML5
 - CSS3
-- Flexbox & Media Queries para responsividade 
+- Flexbox & Media Queries para responsividade
+
+## Melhorias futuras ✨💡
+
+- 🛍️ Adicionar opção de marcar os photocards já adquiridos.
+- 🌸 Incluir informações extras, como nome do álbum e era.
+- 📱 Aprimorar ainda mais a responsividade para diversos tamanhos de tela.
 
 ## Como visualizar o projeto 📂
 
