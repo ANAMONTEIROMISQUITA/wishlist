@@ -84,3 +84,16 @@ html, body {
     border-radius: 80px;
     object-fit: cover;
 }
+
+/* celular */
+@media (max-width: 1024px) {
+    .cards {
+        max-width: 650px; 
+    }
+}
+
+@media (max-width: 768px) {
+    .cards {
+        max-width: 320px; 
+    }
+}
