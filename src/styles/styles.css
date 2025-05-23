@@ -27,6 +27,8 @@ html, body {
     gap: 20px; /* espaçamento entre os cards */
     flex-wrap: wrap;
     justify-content: center; /* mantém centralizado */
+    margin-top: 40px;
+    max-width: 1000px;
 }
 
 
